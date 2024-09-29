@@ -1,4 +1,4 @@
-# Gold Price Prediction :moneybag:
+# Gold Price Prediction Dashboard :moneybag:
 
 ## Setup environment
 ```
